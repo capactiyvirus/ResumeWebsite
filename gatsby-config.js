@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "My Resume Site",
+    siteUrl: `https://resumewebsitemain.gatsbyjs.io/`,
   },
   plugins: [
     "gatsby-plugin-image",
